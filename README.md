@@ -4,7 +4,7 @@ Companion repository for the paper **"The truncated Weil quadratic form: inertia
 
 **DOI:** [10.5281/zenodo.23177438](https://doi.org/10.5281/zenodo.23177438) · Continues: [10.5281/zenodo.23174797](https://doi.org/10.5281/zenodo.23174797)
 
-This is not a proof of the Riemann Hypothesis. The paper records structural results, no-go theorems, numerical laws and negative results about the truncated (window) Weil quadratic form, and the outcome of a year-long research program. The Lean 4 sources for the SR/Rees matrix program (paper §12) live in the separate repository [Logan-Eberwein-RH-Research](https://github.com/loganeberwein6/Logan-Eberwein-RH-Research).
+This is not a proof of the Riemann Hypothesis. The paper records structural results, no-go theorems, numerical laws and negative results about the truncated (window) Weil quadratic form, and the outcome of a year-long research program. The Lean 4 sources for the SR/Rees matrix program (paper §12) live in the separate repository [Logan-Eberwein-RH-Research](https://github.com/loganeberwein/Logan-Eberwein-RH-Research).
 
 ## Contents
 
